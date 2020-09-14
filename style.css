@@ -35,3 +35,11 @@ header h1 {
     font-size: 60px;
 }
 
+.counters{
+    background: #0f479a;
+    color: #fff;
+    padding: 40px 20px;
+    border-top: 3px lightskyblue solid;
+
+}
+
