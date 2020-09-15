@@ -40,6 +40,14 @@ header h1 {
     color: #fff;
     padding: 40px 20px;
     border-top: 3px lightskyblue solid;
+}
+
+.counters .container {
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: repeat(4, 1fr);
 
 }
+
+
 
