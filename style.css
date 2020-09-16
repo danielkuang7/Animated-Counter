@@ -46,8 +46,15 @@ header h1 {
     display: grid;
     grid-gap: 30px;
     grid-template-columns: repeat(4, 1fr);
-
+    text-align: center;
 }
+
+.counters i {
+    color: lightskyblue;
+    margin-bottom: 5px;
+}
+
+
 
 
 
