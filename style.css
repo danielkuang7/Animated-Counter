@@ -54,6 +54,11 @@ header h1 {
     margin-bottom: 5px;
 }
 
+.counters .counter {
+    font-size: 45px;
+    margin: 10px 0;
+}
+
 
 
 
