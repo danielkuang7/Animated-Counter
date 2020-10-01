@@ -7,4 +7,5 @@ counters.forEach(counter => {
      const count = +counter.innerText;
      const inc = target / speed;
     }
+    updateCount();
 })
