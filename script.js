@@ -8,7 +8,9 @@ counters.forEach(counter => {
      const inc = target / speed;
 
      if(count < target){
-         
+
+     } else{
+         count.innerText = target;
      }
     }
     updateCount();
