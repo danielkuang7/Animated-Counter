@@ -9,6 +9,7 @@ counters.forEach(counter => {
 
      if(count < target){
         counter.innerText = count + inc;
+        setTimeout(updateCount, 1);
      } else{
          count.innerText = target;
      }
